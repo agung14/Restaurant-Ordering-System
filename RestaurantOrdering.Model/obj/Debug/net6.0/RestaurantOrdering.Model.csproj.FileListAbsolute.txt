@@ -1,0 +1,11 @@
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\bin\Debug\net6.0\RestaurantOrdering.Model.deps.json
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\bin\Debug\net6.0\RestaurantOrdering.Model.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\bin\Debug\net6.0\RestaurantOrdering.Model.pdb
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.AssemblyInfoInputs.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.AssemblyInfo.cs
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.csproj.CoreCompileInputs.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\refint\RestaurantOrdering.Model.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\RestaurantOrdering.Model.pdb
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Model\obj\Debug\net6.0\ref\RestaurantOrdering.Model.dll

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestaurantOrdering.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CartController.GetActiveCart">
+            <summary>
+            Get Active Cart
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CartController.GetAllDishFromCart">
+            <summary>
+            Get All Dish From Cart
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CartController.AddDishToCart(RestaurantOrdering.Model.Request.AddDishToCartRequest)">
+            <summary>
+            STEP 2 - Add item/dish to cart
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CartController.UpdateCart(RestaurantOrdering.Model.Request.AddDishToCartRequest)">
+            <summary>
+            Update chart QTY item
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CartController.DeleteCartItem(System.Int32)">
+            <summary>
+            Delete chart item
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CustomerController.GetRandomToken(RestaurantOrdering.Model.Request.CustomerRequest)">
+            <summary>
+            STEP: 1 - Generate JWT ketika reserve, Token valid selama 6 jam
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CustomerController.GetAllDishes">
+            <summary>
+            Get All Dishes
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.CustomerController.GetAllVouchers">
+            <summary>
+            Get All Vouchers
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestaurantOrdering.WebAPI.Controllers.OrderController.PostCheckout(RestaurantOrdering.Model.Request.OrderRequest)">
+            <summary>
+            STEP 3 - Order Semua item yang ada di keranjang belanja, dan buat keranjang belanja baru, kemudian kirim bukti order lewat email
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

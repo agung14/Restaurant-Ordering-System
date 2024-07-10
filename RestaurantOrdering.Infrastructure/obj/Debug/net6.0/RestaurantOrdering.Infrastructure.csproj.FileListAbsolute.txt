@@ -1,0 +1,17 @@
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Infrastructure.deps.json
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Infrastructure.runtimeconfig.json
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Infrastructure.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Infrastructure.pdb
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Model.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\bin\Debug\net6.0\RestaurantOrdering.Model.pdb
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.csproj.AssemblyReference.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.AssemblyInfoInputs.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.AssemblyInfo.cs
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.csproj.CopyComplete
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\refint\RestaurantOrdering.Infrastructure.dll
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.pdb
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\RestaurantOrdering.Infrastructure.genruntimeconfig.cache
+D:\Agung\Net\GIT\restaurant-ordering-system\RestaurantOrdering.Infrastructure\obj\Debug\net6.0\ref\RestaurantOrdering.Infrastructure.dll
